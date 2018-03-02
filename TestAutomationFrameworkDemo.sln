@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{35992367-505A-4D40-8924-196FF5839C60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTal", "TopTal\TopTal.csproj", "{14150E05-706C-4E76-A151-B2708F54BE02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{35992367-505A-4D40-8924-196FF5839C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35992367-505A-4D40-8924-196FF5839C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35992367-505A-4D40-8924-196FF5839C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14150E05-706C-4E76-A151-B2708F54BE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14150E05-706C-4E76-A151-B2708F54BE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14150E05-706C-4E76-A151-B2708F54BE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14150E05-706C-4E76-A151-B2708F54BE02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
